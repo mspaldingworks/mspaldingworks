@@ -2,6 +2,8 @@ HEY THERE👋,
 
 I'm Madelyn.  I began coding after a lifetime of interest with technology, which I've also explored with my work in the field of Curation in the Arts. 
 
+I am a self-taught developer working in a number of languages, but predominantly Python and Kotlin-Java.
+
 👏 I have a passion for creating digital art experiences that insert users into invisible systems, and allow them to interact with those systems.  
 
 🦾 I work in:
